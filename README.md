@@ -1,3 +1,5 @@
+![This is an image](https://github.com/NdAmilcar/Things-to-Do/blob/main/img/Captura%20de%20pantalla%20Things%20to%20do.png)
+
 # Things-to-Do
 to-do list in javascript, basic
 
